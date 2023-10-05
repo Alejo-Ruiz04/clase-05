@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,700&display=swap');
+body{
+    background: linear-gradient(45deg, red, blue);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: #FFFF;
+    font-family:'Montserrat', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.banner{
+    background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1iW8Ikn24sNKSOvBsAjirNy-L-YBL3KuUI6qvcalvCwXsTh8x);
+}
